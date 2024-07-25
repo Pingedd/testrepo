@@ -1,5 +1,6 @@
 maincontent {
     align-items: center;
+    direction: row;
 }
 
 login {
