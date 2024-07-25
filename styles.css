@@ -9,3 +9,8 @@ login {
     align-items: center;
     gap: 10;
 }
+
+buttons {
+    direction: row;
+    gap: 10;
+}
